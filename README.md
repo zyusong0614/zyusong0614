@@ -4,7 +4,7 @@
 
 Specializing in **large-scale data platforms**, **streaming and batch pipelines**, **lakehouse / warehouse systems**, and **context-aware GenAI agents for analytics engineering**. I work across distributed systems, data infrastructure, and agentic workflows that turn messy metadata, warehouse context, and operational rules into reliable self-service data products.
 
-[zyusong614@gmail.com](mailto:zyusong614@gmail.com) · [LinkedIn](https://www.linkedin.com/in/zhengyu-song) · [GitHub](https://github.com/zyusong0614)
+[zyusong614@gmail.com](mailto:zyusong614@gmail.com) · [LinkedIn](https://www.linkedin.com/in/zhengyu-song)
 
 ---
 
