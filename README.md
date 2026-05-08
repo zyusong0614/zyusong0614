@@ -1,6 +1,6 @@
 # Hi, I'm Zhengyu Song
 
-**Data Infra / Platform Software Engineer at Walmart Global Tech**
+**Data Infra / Platform Software Engineer**
 
 Specializing in **large-scale data platforms**, **streaming and batch pipelines**, **lakehouse / warehouse systems**, and **context-aware GenAI agents for analytics engineering**. I work across distributed systems, data infrastructure, and agentic workflows that turn messy metadata, warehouse context, and operational rules into reliable self-service data products.
 
